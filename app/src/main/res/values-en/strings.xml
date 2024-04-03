@@ -15,4 +15,5 @@
     <string name="input_invalid">It cannot be empty.</string>
     <string name="kembali">Back</string>
     <string name="bagikan">Share</string>
+    <string name="bagikan_template">"Number of bouquets: %1$s pcs Bouquet type: %2$s Total price: %3$.2f "</string>
 </resources>
