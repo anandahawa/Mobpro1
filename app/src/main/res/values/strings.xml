@@ -14,5 +14,5 @@
     <string name="input_invalid">Tidak boleh kosong.</string>
     <string name="kembali">Kembali</string>
     <string name="bagikan">Bagikan</string>
-    <string name="bagikan_template">"Jumlah buket: %1$s pcs Tipe buket: %2$s  Total harga: %3$.2f "</string>
+    <string name="bagikan_template">"Jumlah buket: %1$s pcs\nTipe buket: %2$s \nTotal harga: Rp. %3$.2f "</string>
 </resources>
