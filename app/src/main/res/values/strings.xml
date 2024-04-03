@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assessment 1</string>
+    <string name="tulip">Tulip</string>
+    <string name="buket_tangan">Buket Tangan</string>
+    <string name="buket_meja">Buket Meja</string>
+    <string name="buket_berdiri">Buket Berdiri</string>
+    <string name="jumlah_buket">Jumlah Buket</string>
+    <string name="hitung">Hitung</string>
+    <string name="total_harga">Total harga %1s buket:\n Rp. %2$s</string>
+    <string name="tentang_bunga">Makna Bunga Tulip</string>
+    <string name="makna">Secara umum, bunga tulip dianggap sebagai simbol dari cinta yang sempurna.         Karena bentuknya yang elegan dan berbagai warnanya yang indah, bunga tulip sering dikaitkan         dengan deklarasi cinta dan ekspresi dari keindahan yang tak terucapkan. Selain itu,         bunga tulip juga bisa melambangkan pembaruan dan kebangkitan, karena sering mekar di         awal musim semi ketika alam mulai bangun dari tidur musim dinginnya. Dengan sejarah yang         kaya dan kehadirannya yang menonjol dalam budaya dan seni, bunga tulip memang memiliki         tempat khusus sebagai salah satu bunga yang paling dicintai dan dihargai.</string>
+    <string name="judul_harga">Harga buket bunga tulip</string>
+    <string name="rincian_harga">1 buket tangan: Rp. 100.000\n  1 buket meja: Rp. 200.000</string>
+    <string name="input_invalid">Tidak boleh kosong.</string>
+    <string name="kembali">Kembali</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">"Jumlah buket: %1$s pcs Tipe buket: %2$s  Total harga: %3$.2f "</string>
+</resources>

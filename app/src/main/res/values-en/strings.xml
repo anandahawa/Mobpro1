@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assessment 1</string>
+    <string name="tulip">Tulip</string>
+    <string name="buket_tangan">Hand Bucket</string>
+    <string name="buket_meja">Table Bucket</string>
+    <string name="buket_berdiri">Standing Bucket</string>
+    <string name="jumlah_buket">Number of Bouquets</string>
+    <string name="hitung">Count</string>
+    <string name="total_harga">Total price %1s bouquet:\n Rp. %2$s</string>
+    <string name="tentang_bunga">Meaning of Tulips</string>
+    <string name="makna">Tulips are generally regarded as a symbol of perfect love. Their elegant shape and the variety of their colors often associate them with declarations of love and expressions of beauty that cannot be spoken. Additionally, tulips can symbolize renewal and revival, as they often bloom at the beginning of spring when nature awakens from its winter slumber. With a rich history and a prominent presence in culture and art, tulips indeed hold a special place as one of the most beloved and cherished flowers.</string>
+    <string name="judul_harga">Price of a bouquet of tulips</string>
+    <string name="rincian_harga">1 hand bouquet: IDR 100,000\n 1 table bouquet: IDR 200,000</string>
+    <string name="input_invalid">It cannot be empty.</string>
+    <string name="kembali">Back</string>
+    <string name="bagikan">Share</string>
+</resources>
